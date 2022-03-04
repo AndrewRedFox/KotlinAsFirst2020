@@ -10,3 +10,7 @@
 - создал файл `remotes`
 - Закомитил файл remotes `git commit -m "Add remote file"`
 - загрузил изменения на гитхаб `"git push --set-upstream origin master"`
+- Создал файл howto.md.
+- Зарегистрировал изменения git add ..
+- Закомитил файл howto.md git commit -m "Add howto.md file".
+- Загрузил изменения на гитхаб git push".
